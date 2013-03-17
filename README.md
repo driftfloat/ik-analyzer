@@ -28,5 +28,6 @@ IK-Analyzer 的作者为林良益（<linliangyi2007@gmail.com>），项目网站
 在IK Analyzer 加入 Maven Central Repository 之前，你需要手动安装，安装到本地的repository，或者上传到自己的Maven repository服务器上。
 
 要安装到本地 Maven repository，使用如下命令，将自动编译，打包并安装：
-mvn install -Dmaven.test.skip=true
+
+    mvn install -Dmaven.test.skip=true
 
